@@ -1,3 +1,5 @@
 node_modules
 uploads/pontos/*
 !uploads/pontos/.gitkeep
+
+*.sqlite
